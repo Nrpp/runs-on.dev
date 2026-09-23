@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "3f8637ba1b09f1d5.vercel-dns-017.com"
   },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=nomadic.runs-on.dev,ae45c33838614d276b8b"
-      ]
-    }
-  },
   "country": "IN"
 }

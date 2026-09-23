@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "9325837c226b09a2.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=kushalmanvekar.runs-on.dev,7180293028c35ac1b66c"
-      ]
-    }
-  }
+  "country": "IN"
 }
