@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "1075c5dbc06f7cb7.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=maelis.runs-on.dev,6fcf184c010f4f072994"
+      ]
+    }
+  }
 }
