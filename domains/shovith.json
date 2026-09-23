@@ -13,7 +13,9 @@
   },
   "subdomains": {
     "hawk": {
-      "CNAME": "7c410f683a69346a.vercel-dns-017.com"
+      "TXT": [
+        "vc-domain-verify=hawk.shovith.runs-on.dev,a23b3a45bba669a2b01d"
+      ]
     }
   }
 }
