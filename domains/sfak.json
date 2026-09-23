@@ -4,6 +4,8 @@
     "github": "1faadi"
   },
   "claimedAt": "2026-09-23T20:16:47.573Z",
-  "records": {},
+  "records": {
+    "CNAME": "672508f557d5ddd5.vercel-dns-017.com"
+  },
   "country": "PK"
 }
