@@ -18,6 +18,9 @@
       "TXT": [
         "vc-domain-verify=sahilbajaj.runs-on.dev,c36e5fa55008bb97d0d9"
       ]
+    },
+    "sahilbajaj": {
+      "CNAME": "6e06c9ab5cfdb4a0.vercel-dns-017.com"
     }
   }
 }
