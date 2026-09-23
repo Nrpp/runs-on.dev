@@ -5,5 +5,15 @@
   },
   "claimedAt": "2026-09-23T20:54:01.998Z",
   "records": {},
-  "country": "BG"
+  "country": "BG",
+  "profile": {
+    "name": "Dr. Necrotix",
+    "bio": "Together, we can make a lot!",
+    "links": [
+      {
+        "label": "Necrotix Lab",
+        "url": "https://necrotixlab.com"
+      }
+    ]
+  }
 }
