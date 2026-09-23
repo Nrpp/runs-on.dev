@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-09-23T15:39:49.347Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=ved-talmaley.runs-on.dev,b8c8314f0ab73dbc8eb8"
+      ]
+    }
+  }
 }
