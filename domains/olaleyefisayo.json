@@ -5,5 +5,15 @@
   },
   "claimedAt": "2026-09-23T18:39:40.771Z",
   "records": {},
-  "country": "NG"
+  "country": "NG",
+  "subdomains": {
+    "winamp": {
+      "CNAME": "55c8d96e4c782aeb.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=winamp.olaleyefisayo.runs-on.dev,ff30403d0e8f535f56d2"
+      ]
+    }
+  }
 }
