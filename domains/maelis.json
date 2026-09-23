@@ -4,6 +4,8 @@
     "github": "instax-dutta"
   },
   "claimedAt": "2026-09-23T17:43:08.781Z",
-  "records": {},
+  "records": {
+    "CNAME": "1075c5dbc06f7cb7.vercel-dns-017.com"
+  },
   "country": "IN"
 }
