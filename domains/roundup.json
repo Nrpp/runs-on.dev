@@ -4,7 +4,9 @@
     "github": "rzl4r"
   },
   "claimedAt": "2026-09-23T18:35:49.429Z",
-  "records": {},
+  "records": {
+    "CNAME": "job-aggregator-spf7.vercel.app"
+  },
   "country": "IN",
   "subdomains": {
     "_vercel": {
