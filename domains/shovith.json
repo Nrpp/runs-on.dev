@@ -10,12 +10,5 @@
   "profile": {
     "name": "Shovith Debnath",
     "bio": "Chill vibes"
-  },
-  "subdomains": {
-    "hawk": {
-      "TXT": [
-        "vc-domain-verify=hawk.shovith.runs-on.dev,a23b3a45bba669a2b01d"
-      ]
-    }
   }
 }
