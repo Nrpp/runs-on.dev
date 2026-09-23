@@ -10,5 +10,10 @@
   "profile": {
     "name": "Shovith Debnath",
     "bio": "Chill vibes"
+  },
+  "subdomains": {
+    "hawk": {
+      "CNAME": "7c410f683a69346a.vercel-dns-017.com"
+    }
   }
 }
