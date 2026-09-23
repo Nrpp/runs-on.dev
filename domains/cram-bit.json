@@ -4,6 +4,8 @@
     "github": "ECL1PTO"
   },
   "claimedAt": "2026-09-23T20:21:13.652Z",
-  "records": {},
+  "records": {
+    "CNAME": "cram-bit.vercel.app"
+  },
   "country": "IN"
 }
