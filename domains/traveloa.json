@@ -4,6 +4,10 @@
     "github": "Tanjona010"
   },
   "claimedAt": "2026-09-24T03:29:07.622Z",
-  "records": {},
+  "records": {
+    "A": [
+      "41.74.213.234"
+    ]
+  },
   "country": "MG"
 }
