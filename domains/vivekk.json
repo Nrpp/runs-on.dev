@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "1fc608e6e20fa65f.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=vivekk.runs-on.dev,4bb56b13f25373b4bd0d"
-      ]
-    }
-  }
+  "country": "IN"
 }
