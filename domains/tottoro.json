@@ -7,6 +7,20 @@
   "records": {
     "A": [
       "38.242.155.179"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mail.tottoro.runs-on.dev"
+      },
+      {
+        "priority": 10,
+        "value": "tottoro.runs-on.dev"
+      },
+      {
+        "priority": 10,
+        "value": "runs-on.dev"
+      }
     ]
   },
   "country": "JP"
