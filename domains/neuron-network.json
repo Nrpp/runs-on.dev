@@ -27,6 +27,9 @@
     },
     "ssh": {
       "CNAME": "neuron-network.runs-on.dev"
+    },
+    "apps": {
+      "CNAME": "neuron-network.runs-on.dev"
     }
   }
 }
