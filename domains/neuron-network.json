@@ -12,6 +12,9 @@
   "subdomains": {
     "mas": {
       "CNAME": "neuron-network.runs-on.dev"
+    },
+    "matrix": {
+      "CNAME": "neuron-network.runs-on.dev"
     }
   }
 }
