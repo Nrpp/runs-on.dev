@@ -15,6 +15,12 @@
     },
     "matrix": {
       "CNAME": "neuron-network.runs-on.dev"
+    },
+    "sso": {
+      "CNAME": "neuron-network.runs-on.dev"
+    },
+    "reg": {
+      "CNAME": "neuron-network.runs-on.dev"
     }
   }
 }
