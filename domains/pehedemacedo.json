@@ -5,9 +5,7 @@
   },
   "claimedAt": "2026-09-24T00:10:37.918Z",
   "records": {
-    "TXT": [
-      "_github-pages-challenge-pehedemacedo.pehedemacedo"
-    ]
+    "CNAME": "pehedemacedo.github.io"
   },
   "country": "BR"
 }
