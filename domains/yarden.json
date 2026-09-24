@@ -9,10 +9,8 @@
   },
   "country": "IL",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=yarden.runs-on.dev,a8ba9dfe28e6faf3157e"
-      ]
+    "yarden": {
+      "CNAME": "aaf0997c0a675862.vercel-dns-017.com"
     }
   }
 }
