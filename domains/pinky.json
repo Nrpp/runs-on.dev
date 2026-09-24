@@ -4,6 +4,8 @@
     "github": "securedoc20"
   },
   "claimedAt": "2026-09-24T00:12:11.925Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "US"
 }
