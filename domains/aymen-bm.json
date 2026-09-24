@@ -4,6 +4,8 @@
     "github": "niri111"
   },
   "claimedAt": "2026-09-23T23:30:32.117Z",
-  "records": {},
+  "records": {
+    "CNAME": "niri111.github.io"
+  },
   "country": "DZ"
 }
