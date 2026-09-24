@@ -4,6 +4,8 @@
     "github": "dexter02-crypt"
   },
   "claimedAt": "2026-09-24T03:15:25.561Z",
-  "records": {},
+  "records": {
+    "CNAME": "dexter02-crypt.github.io"
+  },
   "country": "IN"
 }
