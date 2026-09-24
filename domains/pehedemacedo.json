@@ -4,6 +4,10 @@
     "github": "pehedemacedo"
   },
   "claimedAt": "2026-09-24T00:10:37.918Z",
-  "records": {},
+  "records": {
+    "TXT": [
+      "_github-pages-challenge-pehedemacedo.pehedemacedo"
+    ]
+  },
   "country": "BR"
 }
