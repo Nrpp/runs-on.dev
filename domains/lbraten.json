@@ -4,6 +4,8 @@
     "github": "lbraten"
   },
   "claimedAt": "2026-09-24T09:01:13.206Z",
-  "records": {},
+  "records": {
+    "CNAME": "lbraten.github.io"
+  },
   "country": "NO"
 }
