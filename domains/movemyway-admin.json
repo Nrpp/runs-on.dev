@@ -11,5 +11,12 @@
   "profile": {
     "name": "Move My Way Admin Dashbord",
     "bio": "Admin Dashboard to Manage the \"Move My Way\" Mobile Application."
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=movemyway-admin.runs-on.dev,3d38d3e6cccae101d6e1"
+      ]
+    }
   }
 }
