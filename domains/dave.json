@@ -4,6 +4,10 @@
     "github": "Mutator"
   },
   "claimedAt": "2026-09-24T11:33:29.074Z",
-  "records": {},
+  "records": {
+    "A": [
+      "169.58.126.190"
+    ]
+  },
   "country": "DE"
 }
