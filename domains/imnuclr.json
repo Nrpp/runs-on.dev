@@ -4,6 +4,8 @@
     "github": "imnuclr"
   },
   "claimedAt": "2026-09-24T17:17:28.314Z",
-  "records": {},
+  "records": {
+    "CNAME": "rootweb-imnuclr.pages.dev"
+  },
   "country": "GB"
 }
