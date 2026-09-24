@@ -4,7 +4,11 @@
     "github": "aaditya5643"
   },
   "claimedAt": "2026-09-23T05:22:06.219Z",
-  "records": {},
+  "records": {
+    "TXT": [
+      "45641da8dba81d80b879420053316288"
+    ]
+  },
   "country": "NP",
   "subdomains": {
     "subdomain-owner-verification": {
