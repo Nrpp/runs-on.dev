@@ -16,5 +16,12 @@
         "url": "https://www.designwithsantosh.in/"
       }
     ]
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=metric.runs-on.dev,a0731185b55a2d0b9ae"
+      ]
+    }
   }
 }
