@@ -4,6 +4,19 @@
     "github": "FWEEaaaa1"
   },
   "claimedAt": "2026-09-24T19:02:44.299Z",
-  "records": {},
+  "records": {
+    "A": [
+      "128.204.223.115"
+    ],
+    "TXT": [
+      "v=spf1 mx a include:mail9.serv00.com -all"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mail9.serv00.com"
+      }
+    ]
+  },
   "country": "GB"
 }
