@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "672508f557d5ddd5.vercel-dns-017.com"
   },
-  "country": "PK",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=sfak.runs-on.dev,b16d7acfb8bc7adba371"
-      ]
-    }
-  }
+  "country": "PK"
 }

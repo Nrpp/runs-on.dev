@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "6a8cbdaeefe5386e.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=sandeep.runs-on.dev,d96904132f9ae3850bd3"
-      ]
-    }
-  }
+  "country": "IN"
 }

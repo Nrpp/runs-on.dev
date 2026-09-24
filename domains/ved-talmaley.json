@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=ved-talmaley.runs-on.dev,b8c8314f0ab73dbc8eb8"
-      ]
-    }
-  }
+  "country": "IN"
 }
