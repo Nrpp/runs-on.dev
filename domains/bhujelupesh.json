@@ -4,6 +4,8 @@
     "github": "Cupid-0x80h"
   },
   "claimedAt": "2026-09-24T20:06:28.287Z",
-  "records": {},
+  "records": {
+    "CNAME": "vermillion-gnome-481205.netlify.app"
+  },
   "country": "NP"
 }
