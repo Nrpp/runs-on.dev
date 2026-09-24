@@ -9,5 +9,12 @@
       "_discord.syl.runs-on.dev.  3600  IN  TXT  \"dh=342799e466e21da19082d7d2042933067c0bd861\""
     ]
   },
-  "country": "NL"
+  "country": "NL",
+  "subdomains": {
+    "_discord": {
+      "TXT": [
+        "dh=342799e466e21da19082d7d2042933067c0bd861"
+      ]
+    }
+  }
 }
