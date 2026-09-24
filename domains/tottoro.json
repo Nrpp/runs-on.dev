@@ -26,5 +26,8 @@
       }
     ]
   },
-  "country": "JP"
+  "country": "JP",
+  "profile": {
+    "name": "tottoro"
+  }
 }
