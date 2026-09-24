@@ -4,6 +4,8 @@
     "github": "livenintendoswitch"
   },
   "claimedAt": "2026-09-24T09:15:43.063Z",
-  "records": {},
+  "records": {
+    "CNAME": "web-porto.leonardsuwanta3.workers.dev"
+  },
   "country": "ID"
 }
