@@ -21,6 +21,12 @@
     },
     "reg": {
       "CNAME": "neuron-network.runs-on.dev"
+    },
+    "calls": {
+      "CNAME": "neuron-network.runs-on.dev"
+    },
+    "ssh": {
+      "CNAME": "neuron-network.runs-on.dev"
     }
   }
 }
