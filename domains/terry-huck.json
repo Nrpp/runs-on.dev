@@ -4,6 +4,8 @@
     "github": "TJHuck"
   },
   "claimedAt": "2026-09-24T01:12:21.417Z",
-  "records": {},
+  "records": {
+    "CNAME": "tjhuck.github.io"
+  },
   "country": "US"
 }
