@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-09-23T19:14:01.364Z",
   "records": {},
-  "country": "CH"
+  "country": "CH",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=aryananandtaalbamboodukan.runs-on.dev,f11ce0ca63ac396e8d7a"
+      ]
+    }
+  }
 }
