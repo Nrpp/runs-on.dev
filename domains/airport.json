@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "82fb8a00868b0957.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=airport.runs-on.dev,9d438f965f36bcf3af90"
+      ]
+    }
+  }
 }
