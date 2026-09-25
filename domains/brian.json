@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-09-24T04:29:35.869Z",
   "records": {},
-  "country": "KE"
+  "country": "KE",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=brian.runs-on.dev,a2ce063ae1c1c1986bca"
+      ]
+    }
+  }
 }
