@@ -4,6 +4,10 @@
     "github": "heitor-amaral"
   },
   "claimedAt": "2026-09-25T21:19:14.944Z",
-  "records": {},
+  "records": {
+    "A": [
+      "177.70.19.229"
+    ]
+  },
   "country": "BR"
 }
