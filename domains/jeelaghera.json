@@ -4,6 +4,8 @@
     "github": "Jeel1210"
   },
   "claimedAt": "2026-09-25T06:32:05.040Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
