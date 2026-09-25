@@ -10,7 +10,9 @@
   "country": "IN",
   "subdomains": {
     "jeelaghera": {
-      "CNAME": "80b8743adcb13907.vercel-dns-017.com"
+      "TXT": [
+        "vc-domain-verify=jeelaghera.runs-on.dev,2a8f2828e170d46c6db5"
+      ]
     }
   }
 }
