@@ -24,5 +24,12 @@
       }
     ]
   },
-  "country": "CL"
+  "country": "CL",
+  "subdomains": {
+    "_dmarc": {
+      "TXT": [
+        "v=DMARC1; p=none"
+      ]
+    }
+  }
 }
