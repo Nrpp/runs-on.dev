@@ -7,5 +7,10 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "jeelaghera": {
+      "CNAME": "80b8743adcb13907.vercel-dns-017.com"
+    }
+  }
 }
