@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "AE"
+  "country": "AE",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=handlab.runs-on.dev,f4002af7b3355450c360"
+      ]
+    }
+  }
 }
