@@ -4,6 +4,10 @@
     "github": "Nrpp"
   },
   "claimedAt": "2026-09-24T18:42:22.379Z",
-  "records": {},
+  "records": {
+    "TXT": [
+      "zoho-verification=zb41114974.zmverify.zoho.eu"
+    ]
+  },
   "country": "IE"
 }
