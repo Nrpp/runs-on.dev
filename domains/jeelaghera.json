@@ -9,9 +9,9 @@
   },
   "country": "IN",
   "subdomains": {
-    "jeelaghera": {
+    "_vercel": {
       "TXT": [
-        "vc-domain-verify=jeelaghera.runs-on.dev,2a8f2828e170d46c6db5"
+        "_vercel.runs-on.dev"
       ]
     }
   }
