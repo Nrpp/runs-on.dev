@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "portfolio-umber-six-11.vercel.app"
   },
-  "country": "JO"
+  "country": "JO",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=omar.runs-on.dev,29258e3855a261974373"
+      ]
+    }
+  }
 }
