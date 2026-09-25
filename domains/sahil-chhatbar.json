@@ -4,6 +4,8 @@
     "github": "SahilChhatbar"
   },
   "claimedAt": "2026-09-25T18:53:17.372Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
