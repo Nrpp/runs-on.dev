@@ -9,9 +9,6 @@
   },
   "country": "IN",
   "subdomains": {
-    "heart": {
-      "CNAME": "480664babf281024.vercel-dns-017.com"
-    },
     "_vercel": {
       "TXT": [
         "vc-domain-verify=heart.runs-on.dev,8aeedf833c9cac1918d0"
