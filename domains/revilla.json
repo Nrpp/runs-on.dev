@@ -6,7 +6,23 @@
   "claimedAt": "2026-09-24T18:42:22.379Z",
   "records": {
     "TXT": [
-      "zoho-verification=zb41114974.zmverify.zoho.eu"
+      "zoho-verification=zb41114974.zmverify.zoho.eu",
+      "v=spf1 include:zohomail.eu ~all",
+      "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCdzTQCgt4V6wxFx0BUfY+0VyahCmT0VUIjp8Q6YxsFO+/i58KbUa7vjjLntLkqRvO2AK0mP3uGHDua7VjCc0eh0+By4p6U5axOuvuaJNGMJpwFzABjese+ScFyfIc38L/4Ud2C+9bqU5xbFvqVZ6jjG7YPqBf4JAL2p6LRuL/1pwIDAQAB"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mx.zoho.eu"
+      },
+      {
+        "priority": 20,
+        "value": "mx2.zoho.eu"
+      },
+      {
+        "priority": 50,
+        "value": "mx3.zoho.eu"
+      }
     ]
   },
   "country": "IE"
