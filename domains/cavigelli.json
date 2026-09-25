@@ -4,6 +4,8 @@
     "github": "lukasc-ch"
   },
   "claimedAt": "2026-09-25T22:35:32.752Z",
-  "records": {},
+  "records": {
+    "CNAME": "lukasc-ch.github.io"
+  },
   "country": "CH"
 }
