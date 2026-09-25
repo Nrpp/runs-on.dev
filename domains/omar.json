@@ -4,6 +4,8 @@
     "github": "o2ja"
   },
   "claimedAt": "2026-09-25T16:46:44.823Z",
-  "records": {},
+  "records": {
+    "CNAME": "portfolio-umber-six-11.vercel.app"
+  },
   "country": "JO"
 }
