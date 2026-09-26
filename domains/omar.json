@@ -1,0 +1,18 @@
+{
+  "name": "omar",
+  "owner": {
+    "github": "o2ja"
+  },
+  "claimedAt": "2026-09-25T16:46:44.823Z",
+  "records": {
+    "CNAME": "b7f40305bf9216a8.vercel-dns-017.com"
+  },
+  "country": "JO",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=omar.runs-on.dev,29258e3855a261974373"
+      ]
+    }
+  }
+}
